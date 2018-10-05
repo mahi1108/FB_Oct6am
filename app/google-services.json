@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744938991835",
+    "firebase_url": "https://fboct6am.firebaseio.com",
+    "project_id": "fboct6am",
+    "storage_bucket": "fboct6am.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744938991835:android:1db2c9279a5c82d6",
+        "android_client_info": {
+          "package_name": "cubex.mahesh.fb_oct6am"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744938991835-peumeik2n9lmfg11op16ke5iqb46g3uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cubex.mahesh.fb_oct6am",
+            "certificate_hash": "87c7b535d40bab927d8b97a042cba717cfa81f1f"
+          }
+        },
+        {
+          "client_id": "744938991835-fkk65fnp1f9h677rb21kf5pe3304evkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDf5HCbT5RHcyvUaEGMeu7yoepP9tI3Nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744938991835-fkk65fnp1f9h677rb21kf5pe3304evkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
